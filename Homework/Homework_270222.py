@@ -180,3 +180,6 @@ print(f'Средняя оценка за домашние задания по в
 print(f'Средняя оценка за домашние задания по всем студентам курса Git {stud_average_grade(student, "Git")}')
 print(f'Средняя оценка за за лекции всех лекторов курса Git {lec_average_grade(lector, "Git")}')
 print(f'Средняя оценка за за лекции всех лекторов курса Python {lec_average_grade(lector, "Python")}')
+
+
+#https://github.com/netology-code/py-homeworks-basic/tree/new_oop/6.classes задание
